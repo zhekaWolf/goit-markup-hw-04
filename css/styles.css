@@ -470,6 +470,8 @@
   margin-right: 120px;
 }
 .footer-socials-item {
+   width: 40px;
+  height: 40px; 
 }
 
 .footer-navigation-logo-first-logo {
@@ -530,5 +532,7 @@
 }
 
 .footer-social-icon {
+    width: 24px;
+  height: 24px;
   fill: #f4f4fd;
 }
